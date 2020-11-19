@@ -7,7 +7,7 @@ Envio de respuestas falsas de dns con id 65535, para envenamiento:
 #python3 dnspoison.py
 
 
-Para que se produzca el evenenamiento, es necesario inundar de respuestas DNS y hacer coincidir el ID y el numero puerto UDP de respuesta. 
+Para que se produzca el evenenamiento, es necesario inundar de respuestas DNS modificadas y hacer coincidir el ID de respuesta y el numero puerto UDP. 
 
 
 
