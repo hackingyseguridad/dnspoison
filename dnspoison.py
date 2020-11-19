@@ -1,5 +1,5 @@
 #!/usr/bin/python
-# @hackyseguridad
+# CVE-2020-25705 @hackyseguridad
 # Prueba con fines de investigacion de envio de respuestas DNS
 # 196.200.96.1 IP DNS autoritativo  del dominio: boe.gov.er
 # 196.200.104.106 IP DNS resolver Eritrea
