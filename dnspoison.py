@@ -18,4 +18,4 @@ dns = Ether()/IP(dst="217.127.199.128",src="196.200.104.42")/UDP()/DNS(qd=DNSQR(
 sendp(dns, verbose = 0)
 for pkt in pkts:
         sendp(pkt, verbose=0)
-
+        
