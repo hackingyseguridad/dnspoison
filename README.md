@@ -14,6 +14,10 @@ Para averiguar al puerto de respuesta utilizaremos la respuesta ICMP. ICMPtest.s
 
 <img style="float:left" alt="dns poisoning logo" src="https://github.com/hackingyseguridad/dnspoison/blob/master/envenamiento.png">
 
+Referencias:
+
+https://en.wikipedia.org/wiki/DNS_spoofing#Cache_poisoning_attacks
+
 #
 # www.hackingyseguridad.com 
 #
