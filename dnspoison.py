@@ -1,5 +1,5 @@
 #"Prueba con fines de investigacion de envio de respuestas DNS"
-# 
+#
 #"IP DNS Autoritativo 196.200.96.1 del dominio: boe.gov.er "
 #"IP DNS Resolver: 196.200.104.106 "
 #"IP real sitio boe.gov.er: 196.200.104.42 "
