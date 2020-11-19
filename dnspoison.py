@@ -1,9 +1,10 @@
-#"Prueba con fines de investigacion de envio de respuestas DNS"
-#
-#"IP DNS Autoritativo 196.200.96.1 del dominio: boe.gov.er "
-#"IP DNS Resolver: 196.200.104.106 "
-#"IP real sitio boe.gov.er: 196.200.104.42 "
-#"IP envenenada sitio fake: 217.127.199.128 "
+#!/usr/bin/python
+# @hackyseguridad
+# Prueba con fines de investigacion de envio de respuestas DNS
+# 196.200.96.1 IP DNS autoritativo  del dominio: boe.gov.er
+# 196.200.104.106 IP DNS resolver Eritrea
+# 217.127.199.128 IP envenenada sitio fake
+# 196.200.104.42 IP real sitio: boe.gov.er 
 # id=65535
 # 
 
