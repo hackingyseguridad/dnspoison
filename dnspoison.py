@@ -1,9 +1,11 @@
-"Prueba con fines de investigacion de envio de respuestas DNS"
-"IP DNS Autoritativo 196.200.96.1 del dominio: boe.gov.er "
-"IP DNS Resolver: 196.200.104.106 "
-"IP real sitio boe.gov.er: 196.200.104.42 "
-"IP envenenada sitio fake: 217.127.199.128 "
-
+#"Prueba con fines de investigacion de envio de respuestas DNS"
+# 
+#"IP DNS Autoritativo 196.200.96.1 del dominio: boe.gov.er "
+#"IP DNS Resolver: 196.200.104.106 "
+#"IP real sitio boe.gov.er: 196.200.104.42 "
+#"IP envenenada sitio fake: 217.127.199.128 "
+# id=65535
+# 
 
 from scapy.all import *
 from scapy.layers.l2 import *
