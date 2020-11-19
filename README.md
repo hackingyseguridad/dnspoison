@@ -18,6 +18,8 @@ Referencias:
 
 https://en.wikipedia.org/wiki/DNS_spoofing#Cache_poisoning_attacks
 
+https://github.com/bluecatlabs/network-vip/tree/main/icmp_ratelimit
+
 #
 # www.hackingyseguridad.com 
 #
