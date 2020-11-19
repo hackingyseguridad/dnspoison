@@ -1,5 +1,5 @@
 #!/bin/bash
-# Embenenamiento respusta DNS
+# Emvenenamiento respustas DNS 
 # Antonio Taboada 09/08/2019
 # Aplicar permisos con chmod *x dnspoison.sh
 # Ejecutar ./dnspoison.sh
