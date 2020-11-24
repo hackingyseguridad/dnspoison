@@ -22,6 +22,9 @@ Este ID sirve como identificador único en los paquetes que conforman la petici�
 Si el identificador generado para cada consulta no es suficientemente aleatorio y llega a ser predicho de alguna manera, el atacante solo tiene que inundar al resolver de paquetes UDP con una pequeña can-tidad de respuestas DNS. La que coincida será tomada como buena por el dispositivo que intenta resol-ver, haciendo que redirija los paquetes del atacante en vez de al servidor DNS legítimo consultado.
 Si por el contrario el sistema de resolución realmente elige números aleatorios, las posibilidades del atacante son mínimas y necesitaría años para poder engañar al dispositivo.
 
+<img style="float:left" alt="dns poisoning " src="https://github.com/hackingyseguridad/dnspoison/blob/master/poisoning2.png">
+
+
 Referencias:
 
 https://en.wikipedia.org/wiki/DNS_spoofing#Cache_poisoning_attacks
